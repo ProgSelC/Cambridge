@@ -1,0 +1,152 @@
+Сэр Исаак Ньютон  — английский физик, математик, механик и астроном, один из создателей классической физики.
+Автор фундаментального труда «Математические начала натуральной философии», в котором он изложил закон всемирного
+тяготения и три закона механики, ставшие основой классической механики. Разработал дифференциальное и интегральное
+исчисления, теорию цвета, заложил основы современной физической оптики, создал многие другие математические
+и физические теории.
+
+И вот задание от известного естествоиспытателя. "Связующее звено дружбы"
+Ниже идет список людей. Одна пара означает что эти два человека знакомы. После этого списка людей
+(после строки с символами --------) идут строки с парами людей разделенными табуляциями если человек справа может через
+своих знакомых или знакомых знакомых познакомиться с человеком слева то значение этой пары 1, если нет то 0. Последовательность
+нулей и единиц в строке образует число записанное в двоичной системе счисления. Это число и есть ASCII код закодированного
+символа. Как обычно для того что бы показать что задача решена напишите последние 4 цифры.
+
+Igor - Terry
+Harper - Cristin
+Rima - Roman
+Hope - Guana
+Sabina - Tandy
+Sabina - Illia
+Ivon - Luana
+Santa - Sammanta
+Sam - Luis
+Rita - Nastia
+Luana - Ivon
+Soyer - Sabina
+Ray - Ivon
+Igon - Terry
+Terry - Ira
+Sammanta - Illia
+Rosa - Rita
+Vinsent - Luc
+Harper - Hope
+Luis - Igor
+Luc - Luana
+Hope - Harper
+Ivon - Ray
+Inna - Ira
+Inna - Lui
+Rima - Nastia
+Illia - Sabina
+Tor - Vinsent
+Sofy - Serena
+Sofy - Soyer
+Vinsent - Ray
+Selin - Serena
+Sam - Vinsent
+Jannet - Greg
+Ivon - Ira
+Vinsent - Igon
+Luana - Luc
+Tandy - Sabina
+Illia - Sammanta
+Selin - Soyer
+Roman - Rita
+Ira - Ivon
+Soyer - Selin
+Rita - Rosa
+Hope - Rosa
+Igor - Inna
+Lui - Inna
+Illia - Irbis
+Rosa - Hope
+Serena - Selin
+Harper - Monic
+Luc - Vinsent
+Nastia - Rita
+Inna - Igor
+Igon - Vinsent
+Ira - Terry
+Luis - Sam
+Sabina - Soyer
+Lui - Ira
+Ira - Lui
+Sammanta - Santa
+Roman - Rima
+Lui - Janet
+Guana - Hope
+Terry - Igon
+Igor - Luis
+Gleb - Nastia
+Ira - Inna
+Vinsent - Sam
+Rita - Roman
+Irbis - Illia
+Terry - Igor
+Serena - Sofy
+Vinsent - Tor
+Luc - Lea
+Jannet - Lui
+Greg - Jannet
+Soyer - Sofy
+Ray - Vinsent
+Nastia - Gleb
+Lea - Luc
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Gleb - Rita	Rosa - Irbis	Serena - Terry	Irbis - Igor	Rima - Sofy	Rima - Rosa	Greg - Tor	
+Sabina - Sofy	Irbis - Soyer	Greg - Roman	Sofy - Ivon	Sam - Hope	Santa - Luis	Lui - Igon	
+Guana - Rita	Serena - Selin	Irbis - Selin	Inna - Roman	Irbis - Luis	Ira - Terry	Jannet - Roman	
+Nastia - Harper	Sofy - Serena	Rima - Illia	Guana - Hope	Rosa - Gleb	Rita - Sammanta	Illia - Terry	
+Nastia - Harper	Luana - Rita	Roman - Serena	Tor - Hope	Santa - Sam	Tandy - Lui	
+Sofy - Irbis	Rosa - Santa	Tandy - Ray	Irbis - Greg	Tandy - Santa	Sammanta - Selin	Gleb - Gleb	
+Santa - Tandy	Sabina - Selin	Santa - Irbis	Santa - Luc	Soyer - Serena	Irbis - Lui	Santa - Illia	
+Harper - Guana	Sam - Luc	Ira - Lui	Roman - Selin	Rosa - Sabina	Nastia - Rosa	Gleb - Roman	
+Ivon - Lea	Sammanta - Soyer	Ray - Greg	Guana - Sammanta	Rima - Rita	Sofy - Luana	Sammanta - Tor	
+Harper - Roman	Selin - Sammanta	Igon - Harper	Serena - Luc	Gleb - Sammanta	Terry - Harper	Serena - Irbis	
+Selin - Sammanta	Guana - Hope	Terry - Igor	Harper - Tandy	Santa - Soyer	Roman - Rima	Sammanta - Ivon	
+Santa - Illia	Rita - Selin	Luana - Hope	Jannet - Rosa	Harper - Sabina	Illia - Greg	
+Lea - Jannet	Gleb - Sofy	Irbis - Igon	Lea - Vinsent	Lui - Roman	Illia - Sabina	Lea - Rita	
+Harper - Hope	Sofy - Sammanta	Gleb - Sammanta	Roman - Illia	Greg - Rima	Lea - Rita	Santa - Soyer	
+Roman - Rosa	Sam - Ray	Tor - Guana	Sofy - Lui	Sammanta - Tor	Santa - Sammanta	Rima - Nastia	
+Rita - Rita	Ray - Lea	Serena - Ira	Selin - Irbis	Harper - Nastia	Hope - Gleb	Serena - Sabina	
+Igon - Lea	Sofy - Soyer	Serena - Igor	Nastia - Sabina	Ivon - Rita	Sabina - Irbis	Soyer - Ivon	
+Gleb - Guana	Rima - Serena	Igor - Harper	Luc - Nastia	Harper - Tandy	Tandy - Luc	
+Terry - Igor	Illia - Terry	Selin - Ray	Sam - Vinsent	Santa - Greg	Rita - Rita	Luis - Gleb	
+Serena - Santa	Luc - Greg	Rita - Sofy	Hope - Sammanta	Rosa - Tandy	Luis - Harper	Inna - Jannet	
+Jannet - Ira	Terry - Luis	Luana - Harper	Sofy - Jannet	Lea - Gleb	Roman - Hope	Harper - Rosa	
+Lea - Jannet	Igon - Igor	Vinsent - Rita	Illia - Soyer	Sabina - Santa	Ray - Ray	Igon - Lui	
+Luana - Luc	Rosa - Rosa	Sam - Rima	Ray - Harper	Hope - Tandy	Sammanta - Tandy	Tandy - Ira	
+Selin - Sabina	Rima - Guana	Rosa - Sabina	Rita - Guana	Sofy - Luc	Rita - Illia	Tandy - Sammanta	
+Soyer - Serena	Harper - Illia	Nastia - Rima	Nastia - Gleb	Vinsent - Lui	Tor - Guana	
+Sammanta - Illia	Nastia - Soyer	Ira - Rita	Greg - Roman	Rita - Illia	Terry - Hope	
+Hope - Rita	Gleb - Harper	Tandy - Vinsent	Tandy - Serena	Irbis - Lui	Rita - Harper	
+Rima - Harper	Harper - Harper	Rita - Sammanta	Sofy - Igon	Igor - Igon	Ray - Hope	
+Luc - Sam	Inna - Guana	Rosa - Rosa	Guana - Harper	Tor - Sam	Greg - Gleb	
+Sam - Sam	Tor - Vinsent	Ivon - Hope	Igon - Ira	Illia - Lui	Nastia - Roman	
+Sabina - Illia	Sabina - Illia	Illia - Igor	Nastia - Serena	Serena - Luana	Greg - Lea	
+Serena - Irbis	Greg - Igor	Rima - Hope	Guana - Soyer	Sammanta - Igon	Ray - Nastia	
+Roman - Rita	Terry - Ivon	Sabina - Inna	Inna - Gleb	Tandy - Luc	Guana - Sammanta	
+Guana - Guana	Luana - Jannet	Roman - Sammanta	Nastia - Guana	Tandy - Vinsent	Greg - Terry	
+Rosa - Roman	Gleb - Rosa	Nastia - Sabina	Irbis - Illia	Vinsent - Luis	Harper - Tandy	
+Rita - Rima	Roman - Serena	Rita - Rima	Jannet - Igon	Sabina - Ivon	Luis - Nastia	
+Ira - Ira	Selin - Ivon	Guana - Selin	Sofy - Luc	Guana - Soyer	Harper - Selin	
+Tandy - Sabina	Greg - Luc	Serena - Ira	Irbis - Greg	Roman - Santa	Tandy - Santa	
+Roman - Nastia	Inna - Igor	Luis - Rita	Inna - Nastia	Soyer - Sabina	Hope - Rita	
+Rima - Guana	Hope - Sofy	Luc - Jannet	Harper - Hope	Luc - Igon	Luana - Roman	
+Rita - Nastia	Inna - Ira	Sammanta - Igon	Lea - Rita	Gleb - Rima	Greg - Jannet	
+Rosa - Rosa	Igor - Luana	Jannet - Vinsent	Serena - Luana	Greg - Rita	Terry - Luis	
+Roman - Hope	Guana - Hope	Rima - Sabina	Ivon - Roman	Nastia - Rosa	Luc - Ivon	
+Sabina - Sofy	Tor - Inna	Igor - Gleb	Vinsent - Gleb	Nastia - Guana	Rima - Hope	
+Serena - Sofy	Ray - Sam	Luana - Hope	Ira - Gleb	Harper - Rita	Santa - Serena	
+Jannet - Luis	Irbis - Serena	Harper - Irbis	Lea - Guana	Rita - Hope	Ray - Greg	
+Vinsent - Tor	Gleb - Sammanta	Roman - Sofy	Sammanta - Luis	Serena - Igor	Luc - Roman	
+Lui - Igon	Tandy - Lui	Gleb - Sofy	Igor - Nastia	Sofy - Luis	Guana - Irbis	
+Nastia - Rita	Greg - Terry	Sammanta - Lui	Sam - Gleb	Sofy - Luc	Lui - Luis	
+Greg - Lui	Luc - Igor	Sammanta - Luis	Serena - Irbis	Luis - Gleb	Soyer - Soyer	
+Roman - Rita	Luis - Ivon	Sofy - Sam	Nastia - Sofy	Ivon - Nastia	Jannet - Inna	
+Luis - Ray	Soyer - Soyer	Gleb - Selin	Ira - Rima	Harper - Gleb	Rosa - Selin
+
+
+
